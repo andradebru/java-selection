@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8567f5a-0fe5-4c6f-a633-d11408fc6ea4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selecao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/candidatura/ProcessoSeletivo.java" afterDir="false" />
+    <list default="true" id="e8567f5a-0fe5-4c6f-a633-d11408fc6ea4" name="Changes" comment="criter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/candidatura/ProcessoSeletivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/candidatura/ProcessoSeletivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696890562028</updated>
-      <workItem from="1696890562471" duration="1178000" />
+      <workItem from="1696890562471" duration="1994000" />
     </task>
+    <task id="LOCAL-00001" summary="criter">
+      <created>1696891810107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696891810111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +76,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="criter" />
+    <option name="LAST_COMMIT_MESSAGE" value="criter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
